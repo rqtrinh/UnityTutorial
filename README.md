@@ -11,4 +11,9 @@
   - Positioning of player view
     - Enable camera follow with offset
     - Get positions of objects from within Unity 
-  
+  - End Goal
+    - The ultimate goal of this tutorial was to have a player:
+      - Play from 3rd person (following the car)
+      - Control the car (up, down, left, right)
+      - Show effect of car hitting obstacles
+      - Drive car from road to end of road trying to dodge obstacles
